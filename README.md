@@ -1,1 +1,7 @@
 # FLOLAC-16
+
+Homeworks for FLOLAC'16
+
+## LICENSE
+
+MIT
